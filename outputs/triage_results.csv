@@ -1,0 +1,165 @@
+ticket_id,customer_id,status,category,segment_name,priority,route,tokens_used
+T0041,C0978,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,117
+T0008,C0463,classified_json,fraud,Premium,HIGH,security_team,115
+T0143,C0608,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,124
+T0042,C0680,classified_json,delivery,Premium,HIGH,premium_desk,115
+T0126,C0985,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0108,C0779,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0161,C0604,flagged_long,,Frequent Loyalists,NORMAL,human_review,0
+T0011,C0869,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,108
+T0031,C0508,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,124
+T0007,C0185,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0116,C0025,classified_json,fraud,Win-Back Candidates,HIGH,security_team,115
+T0144,C0527,classified_json,fraud,Premium,HIGH,security_team,115
+T0022,C0361,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,116
+T0088,C0431,classified_keyword,fraud,Win-Back Candidates,HIGH,security_team,119
+T0101,C0886,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0056,C0761,classified_json,fraud,Win-Back Candidates,HIGH,security_team,115
+T0096,C0575,classified_json,fraud,Win-Back Candidates,HIGH,security_team,115
+T0083,C0405,flagged_invalid_output,,Win-Back Candidates,NORMAL,human_review,119
+T0027,C0256,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0097,C0845,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,117
+T0127,C0792,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,108
+T0048,C0891,classified_json,fraud,Premium,HIGH,security_team,115
+T0122,C0196,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0111,C0675,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,108
+T0162,C0864,flagged_long,,Win-Back Candidates,NORMAL,human_review,0
+T0035,C0359,classified_json,technical,Win-Back Candidates,NORMAL,support_queue,108
+T0110,C0533,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0131,C0387,classified_keyword,technical,Frequent Loyalists,NORMAL,support_queue,112
+T0134,C0565,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,115
+T0043,C0324,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,108
+T0164,C1050,flagged_long,,Premium,NORMAL,human_review,0
+T0130,C0688,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0146,C0813,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,115
+T0153,C0165,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,113
+T0089,C0759,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,117
+T0090,C0740,classified_json,delivery,Premium,HIGH,premium_desk,115
+T0072,C0444,flagged_invalid_output,,Frequent Loyalists,NORMAL,human_review,115
+T0010,C1058,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,119
+T0077,C0550,classified_json,billing,Premium,HIGH,premium_desk,117
+T0061,C0140,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0037,C0135,classified_json,billing,Premium,HIGH,premium_desk,117
+T0014,C0712,classified_keyword,delivery,Frequent Loyalists,NORMAL,support_queue,123
+T0163,C0799,flagged_long,,Frequent Loyalists,NORMAL,human_review,0
+T0059,C0503,classified_json,technical,Premium,HIGH,premium_desk,119
+T0055,C0202,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,124
+T0018,C0436,classified_json,delivery,Premium,HIGH,premium_desk,116
+T0063,C0425,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,108
+T0012,C0961,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0021,C0995,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,113
+T0112,C1123,classified_json,fraud,Frequent Loyalists,HIGH,security_team,115
+T0016,C0462,classified_json,fraud,Win-Back Candidates,HIGH,security_team,121
+T0078,C0979,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0023,C1197,classified_json,technical,Win-Back Candidates,NORMAL,support_queue,119
+T0158,C0639,skipped_empty,,Frequent Loyalists,NORMAL,human_review,0
+T0044,C0465,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0019,C0024,flagged_invalid_output,,Frequent Loyalists,NORMAL,human_review,119
+T0028,C0093,classified_keyword,fraud,Frequent Loyalists,HIGH,security_team,119
+T0152,C0021,classified_json,fraud,Win-Back Candidates,HIGH,security_team,121
+T0150,C0764,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,119
+T0081,C0021,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,113
+T0053,C1180,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0080,C0421,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0106,C1090,classified_json,delivery,Premium,HIGH,premium_desk,115
+T0121,C1151,classified_json,billing,Premium,HIGH,premium_desk,113
+T0099,C0029,classified_json,technical,Premium,HIGH,premium_desk,119
+T0087,C0661,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0118,C1081,classified_json,delivery,Premium,HIGH,premium_desk,115
+T0066,C0990,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,115
+T0017,C0921,classified_json,billing,Premium,HIGH,premium_desk,117
+T0075,C0240,classified_keyword,technical,Frequent Loyalists,NORMAL,support_queue,128
+T0029,C0582,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0084,C0945,classified_json,fraud,Premium,HIGH,security_team,121
+T0070,C0251,flagged_invalid_output,,Frequent Loyalists,NORMAL,human_review,116
+T0094,C0470,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0147,C0494,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,124
+T0129,C0320,classified_json,billing,Premium,HIGH,premium_desk,117
+T0068,C0067,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0033,C0795,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0039,C0335,classified_json,technical,Win-Back Candidates,NORMAL,support_queue,124
+T0107,C0711,classified_json,technical,Premium,HIGH,premium_desk,119
+T0160,C0667,skipped_empty,,Frequent Loyalists,NORMAL,human_review,0
+T0125,C0874,classified_json,billing,Premium,HIGH,premium_desk,113
+T0045,C0514,classified_json,billing,Premium,HIGH,premium_desk,117
+T0154,C0816,classified_keyword,delivery,Premium,HIGH,premium_desk,120
+T0139,C0775,classified_json,technical,Premium,HIGH,premium_desk,119
+T0128,C1039,classified_json,fraud,Premium,HIGH,security_team,121
+T0013,C0152,classified_json,billing,Premium,HIGH,premium_desk,117
+T0119,C0681,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,124
+T0156,C0805,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0038,C0590,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,115
+T0032,C0339,flagged_invalid_output,,Win-Back Candidates,NORMAL,human_review,121
+T0103,C0288,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0157,C1164,skipped_empty,,Win-Back Candidates,NORMAL,human_review,0
+T0003,C0163,classified_json,technical,Premium,HIGH,premium_desk,119
+T0067,C0730,classified_json,technical,Win-Back Candidates,NORMAL,support_queue,108
+T0104,C1023,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0124,C0645,classified_json,fraud,Premium,HIGH,security_team,121
+T0135,C0713,classified_keyword,technical,Frequent Loyalists,NORMAL,support_queue,112
+T0015,C1122,classified_json,technical,Win-Back Candidates,NORMAL,support_queue,119
+T0113,C0526,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,117
+T0117,C1169,classified_json,billing,Premium,HIGH,premium_desk,117
+T0054,C0922,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0159,C0499,skipped_empty,,Frequent Loyalists,NORMAL,human_review,0
+T0115,C0029,classified_json,technical,Premium,HIGH,premium_desk,124
+T0149,C0554,classified_json,billing,Premium,HIGH,premium_desk,117
+T0137,C0264,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0093,C0414,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,113
+T0141,C0192,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0085,C0495,classified_json,billing,Premium,HIGH,premium_desk,113
+T0091,C0524,flagged_invalid_output,,Premium,NORMAL,human_review,108
+T0036,C1141,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0024,C0384,classified_keyword,fraud,Frequent Loyalists,HIGH,security_team,119
+T0001,C0713,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0050,C1117,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0114,C0267,classified_json,delivery,Premium,HIGH,premium_desk,119
+T0047,C0242,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,124
+T0145,C0451,classified_json,billing,Premium,HIGH,premium_desk,117
+T0060,C0859,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0136,C1054,classified_json,fraud,Frequent Loyalists,HIGH,security_team,115
+T0100,C0253,classified_json,fraud,Premium,HIGH,security_team,121
+T0142,C0264,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0052,C0064,classified_json,fraud,Premium,HIGH,security_team,121
+T0123,C0293,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,108
+T0071,C0670,classified_json,technical,Win-Back Candidates,NORMAL,support_queue,124
+T0133,C1160,classified_keyword,billing,Win-Back Candidates,NORMAL,support_queue,121
+T0086,C0924,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0057,C0133,flagged_invalid_output,,Premium,NORMAL,human_review,117
+T0138,C0670,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,119
+T0082,C0425,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0034,C0090,classified_json,delivery,Win-Back Candidates,NORMAL,support_queue,115
+T0076,C0680,classified_json,fraud,Premium,HIGH,security_team,115
+T0051,C1076,classified_json,technical,Premium,HIGH,premium_desk,119
+T0105,C0268,classified_json,billing,Premium,HIGH,premium_desk,117
+T0062,C0867,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0030,C0115,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0109,C0132,classified_json,billing,Premium,HIGH,premium_desk,117
+T0040,C0106,classified_json,fraud,Win-Back Candidates,HIGH,security_team,121
+T0073,C0770,classified_keyword,billing,Premium,HIGH,premium_desk,121
+T0005,C0018,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,113
+T0026,C0796,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,115
+T0098,C0153,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0120,C0535,classified_json,fraud,Premium,HIGH,security_team,121
+T0046,C0517,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0020,C0804,flagged_invalid_output,,Premium,NORMAL,human_review,121
+T0009,C0101,classified_json,billing,Premium,HIGH,premium_desk,113
+T0095,C0818,classified_json,technical,Premium,HIGH,premium_desk,119
+T0151,C0467,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0004,C0180,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0025,C0801,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,117
+T0049,C0231,classified_json,billing,Win-Back Candidates,NORMAL,support_queue,117
+T0074,C0440,classified_keyword,delivery,Frequent Loyalists,NORMAL,support_queue,119
+T0155,C0228,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0064,C0220,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0069,C0124,classified_json,billing,Frequent Loyalists,NORMAL,support_queue,117
+T0058,C1150,classified_json,delivery,Premium,HIGH,premium_desk,116
+T0079,C1162,classified_json,technical,Frequent Loyalists,NORMAL,support_queue,119
+T0065,C0975,classified_json,billing,Premium,HIGH,premium_desk,113
+T0148,C0350,classified_json,fraud,Premium,HIGH,security_team,115
+T0006,C1106,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,115
+T0102,C0750,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,116
+T0132,C0637,flagged_invalid_output,,Frequent Loyalists,NORMAL,human_review,121
+T0002,C0583,classified_json,delivery,Frequent Loyalists,NORMAL,support_queue,115
+T0092,C0387,classified_json,fraud,Frequent Loyalists,HIGH,security_team,121
+T0140,C0312,classified_keyword,fraud,Frequent Loyalists,HIGH,security_team,125
